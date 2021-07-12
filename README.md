@@ -1,3 +1,12 @@
+This Project regards the First Class Assignment (CA) of the DevOps discipline at the .SWitCH() - Postgraduate in Software Development @ Instituto Superior de Engenharia do Porto, 2020/2021 edition.
+
+For this CA the task was to create a simple tutorial in order to execute the assignment's defined steps regarding Version Control Systems.
+
+The _tut-basic_ folder contains a simple SpringBoot Application and regards the Git part of the Assignment.
+
+The _Alternative_Implementation_ folder regards an alternative to **Git**, where I used **Mercurial**.
+
+
 # 1. Analysis
 
 1. Add an email field with respective validations and tests to an application.  
